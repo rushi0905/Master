@@ -26,7 +26,6 @@ public class Grouping extends TestBase {
 	{
 		 String title = login.verifyTitle();
 		 Assert.assertEquals("Kite - Zerodha's fast and elegant flagship trading platform",title );
-		System.out.Println("This is git code");
 	}
 	
 	 
